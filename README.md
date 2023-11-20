@@ -1,4 +1,4 @@
-# MiCard App
+# MyCard App
 A simple business card app built using flutter that supports hot reload!
 
 
